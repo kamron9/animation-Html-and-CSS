@@ -30,6 +30,8 @@ body{
     flex-direction: column;
     -webkit-box-reflect: below 1px linear-gradient(#0001, #0002) ;
 }
+
+/* Earth */
 .planetEarth{
     position: relative;
     min-width: 50%;
@@ -117,8 +119,7 @@ body{
     }
 }
 
-/* mars */
-
+/* Mars */
 .planetMars{
     position: relative;
     min-width: 50%;
